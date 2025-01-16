@@ -10,8 +10,8 @@ Olá, bem vindo ao meu perfil!
 
 <div>
   <a href="https://github.com/carlamagalhaes8">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=calm">
-  <img height=180em src="https://github.com/anuraghazra/github-readme-stats&theme=calm">
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=carlamagalhaes8&show_icons=true&theme=calm"/>
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamagalhaes8&layout=compact&theme=calm"/>
 </div>
 
 <div style="display: inline_block"><br>
