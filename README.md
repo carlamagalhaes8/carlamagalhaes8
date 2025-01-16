@@ -1,12 +1,12 @@
 Olá, bem vindo ao meu perfil!
 <h1>Eu sou Carla Magalhães</h1>
 
-📱 Desenvolvedora web <br>
+💻 Desenvolvedora web <br>
 🏫 Estudante de técnico em informática no IFBA <br>
 🚀 Curso Rocketseat:
-- 💻 Programação Web
-- 🖌 UX/UI com Figma
-- 📚 Cultura e Método Ágeis
+- Programação Web
+- UX/UI com Figma
+- Cultura e Método Ágeis
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
