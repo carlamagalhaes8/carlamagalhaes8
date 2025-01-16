@@ -1,4 +1,4 @@
-Olá, bem vindo ao meu perfil!
+Olá, bem vindo ao meu portifólio!
 <h1>Eu sou Carla Magalhães</h1>
 
 💻 Desenvolvedora web <br>
@@ -6,7 +6,6 @@ Olá, bem vindo ao meu perfil!
 🚀 Curso Rocketseat:
 - Programação Web
 - UX/UI com Figma
-- Cultura e Método Ágeis
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,8 +18,8 @@ Olá, bem vindo ao meu perfil!
 
 <div>
   <a href="https://github.com/carlamagalhaes8">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=carlamagalhaes8&show_icons=true&theme=calm"/>
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamagalhaes8&layout=compact&theme=calm"/>
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=carlamagalhaes8&show_icons=true&theme=noctis_minimus"/>
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamagalhaes8&layout=compact&theme=noctis_minimus"/>
 </div>
 
 <br><div> 
