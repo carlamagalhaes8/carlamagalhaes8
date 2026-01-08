@@ -2,7 +2,7 @@ Olá, bem vindo ao meu portifólio!
 <h1>Eu sou Carla Magalhães</h1>
 
 💻 Desenvolvedora web <br>
-🏫 Estudante de técnico em informática no IFBA <br>
+🏫 Técnica em informática pelo IFBA <br>
 🚀 Curso Rocketseat:
 - Programação Web
 - UX/UI com Figma
