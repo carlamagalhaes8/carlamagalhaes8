@@ -1,20 +1,21 @@
-Olá, bem vindo ao meu portifólio!
-<h1>Eu sou Carla Magalhães</h1>
+Welcome to my Github
+<h1>I'm Carla Magalhães</h1>
 
-💻 Desenvolvedora web <br>
-🏫 Técnica em informática pelo IFBA <br>
-🚀 Curso Rocketseat:
-- Programação Web
-- UX/UI com Figma
+<h2>About me</h2>
+Began my journey in Computer Technician at IFBA <br>
+I work as a Full-Stack Developer using React (JavaScript) and Django (Python) <br>
+Currently pursuing a degree in Computer Science <br>
+Interested in mobile development with React Native <br>
+Open to collaborating on innovative and impactful projects
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 <div>
   <a href="https://github.com/carlamagalhaes8">
