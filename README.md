@@ -78,7 +78,7 @@ Open to collaborating on innovative and impactful projects
 
 <br>
 
-<div> 
+<div align="center"> 
 <a href="mailto:carlamag.contacts@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-282a36?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
@@ -87,7 +87,6 @@ Open to collaborating on innovative and impactful projects
    <img src="https://img.shields.io/badge/Discord-282a36?style=for-the-badge&logo=discord&logoColor=white">
  </a> 
  
-  
   <a href="https://www.linkedin.com/in/carla-magalh%C3%A3es-4039b6288/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
