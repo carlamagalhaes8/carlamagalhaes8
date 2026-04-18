@@ -1,11 +1,23 @@
 <p align="center">
   <img width="735" height="250" alt="c77d344a-6e57-43e6-936a-0027f2f55471" src="https://github.com/user-attachments/assets/eed66a68-49be-4efd-96db-50095f8b9a3d" />
-
 </p>
 
 <p>Welcome to my Github</p>
 <h1>I'm Carla Magalhães</h1>
 
+<a href="https://github.com/carlamagalhaes8/NOME-DO-REPO">
+  <img src="https://img.shields.io/badge/Stars-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&query=stars&url=https://api.github.com/repos/carlamagalhaes8/NOME-DO-REPO">
+</a>
+
+<a href="https://github.com/carlamagalhaes8/NOME-DO-REPO">
+  <img src="https://img.shields.io/badge/Forks-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&query=forks&url=https://api.github.com/repos/carlamagalhaes8/NOME-DO-REPO">
+</a>
+
+<a href="https://github.com/carlamagalhaes8?tab=followers">
+  <img src="https://img.shields.io/github/followers/carlamagalhaes8?style=for-the-badge&color=000000&logo=github&logoColor=white">
+</a>
+
+<br>
 <br>
 
 <h2>About me</h2>
