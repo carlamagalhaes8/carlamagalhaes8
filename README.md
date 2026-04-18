@@ -6,15 +6,15 @@
 <h1>I'm Carla Magalhães</h1>
 
 <a href="https://github.com/carlamagalhaes8/NOME-DO-REPO">
-  <img src="https://img.shields.io/badge/Stars-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&query=stars&url=https://api.github.com/repos/carlamagalhaes8/NOME-DO-REPO">
+  <img src="https://img.shields.io/badge/Stars-282a36?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36&query=stars&url=https://api.github.com/repos/carlamagalhaes8/NOME-DO-REPO">
 </a>
 
 <a href="https://github.com/carlamagalhaes8/NOME-DO-REPO">
-  <img src="https://img.shields.io/badge/Forks-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&query=forks&url=https://api.github.com/repos/carlamagalhaes8/NOME-DO-REPO">
+  <img src="https://img.shields.io/badge/Forks-282a36?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36&query=forks&url=https://api.github.com/repos/carlamagalhaes8/NOME-DO-REPO">
 </a>
 
 <a href="https://github.com/carlamagalhaes8?tab=followers">
-  <img src="https://img.shields.io/github/followers/carlamagalhaes8?style=for-the-badge&color=000000&logo=github&logoColor=white">
+  <img src="https://img.shields.io/github/followers/carlamagalhaes8?style=for-the-badge&color=282a36&logo=github&logoColor=white">
 </a>
 
 <br>
@@ -80,15 +80,15 @@ Open to collaborating on innovative and impactful projects
 
 <div> 
 <a href="mailto:carlamag.contacts@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-282a36?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
   
  <a href="https://discord.com/channels/@me" target="_blank">
-   <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white">
+   <img src="https://img.shields.io/badge/Discord-282a36?style=for-the-badge&logo=discord&logoColor=white">
  </a> 
  
   
   <a href="https://www.linkedin.com/in/carla-magalh%C3%A3es-4039b6288/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
